@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MostrarDadosPessoa</string>
+    <string name="nome">Nome</string>
+    <string name="cpf">CPF</string>
+    <string name="exibir">Exibir</string>
+    <string name="voltar">Voltar</string>
+</resources>
